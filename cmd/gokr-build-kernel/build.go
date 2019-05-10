@@ -41,6 +41,8 @@ CONFIG_USB_SERIAL_CP210X=y
 # For physically connecting the scan2drive USB LCD:
 CONFIG_USB_ACM=y
 
+CONFIG_USB_PRINTER=y
+
 # enable simple framebuffer for early boot
 CONFIG_FB_SIMPLE=y
 
